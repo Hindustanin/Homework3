@@ -24,7 +24,7 @@ public class Main {
         float znachenie1 = 27.12f;
         long znachenie2 = 987_678_965_549L;
         float znachenie3 = 2.786f;
-        short znachenie4 = 595;
+        short znachenie4 = 569;
         short znachenie5 = -159;
         short znachenie6 = 27_897;
         byte znachenie7 = 67;
